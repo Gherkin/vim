@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/niyohn'
-let g:netrw_dirhist_2='/Users/niyohn/Documents'
-let g:netrw_dirhist_3='/Users/niyohn/Documents/test'
+let g:netrw_dirhist_1='/Users/niyohn/Documents/git/gong-2.1/onecms-lib'
+let g:netrw_dirhist_2='/Users/niyohn/Documents/git/gong-2.1'
+let g:netrw_dirhist_3='/Users/niyohn/.vim/bundle/Vundle.vim'
