@@ -38,6 +38,10 @@ set expandtab
 set autoindent
 set fileformat=unix
 set hlsearch
+set showcmd
+set number
+set relativenumber
+set noswapfile
 
 let g:syntastic_ruby_checkers = ['rubocop', 'rubylint']
 au BufNewFile,BufRead *.rb
