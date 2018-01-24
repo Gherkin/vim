@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/niyohn/Documents/git/chef-repo/cookbooks/apache_tomcat'
-let g:netrw_dirhist_2='/Users/niyohn/Documents/git/chef-repo/cookbooks/apache_tomcat/attributes'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/niyohn/Documents/git/chef-repo/cookbooks/jboss405'
+let g:netrw_dirhist_2='/Users/niyohn/Documents/git/chef-repo/cookbooks/jboss405/recipes'
+let g:netrw_dirhist_3='/Users/niyohn/Documents/git/chef-repo/roles/deploy_roles'
+let g:netrw_dirhist_4='/Users/niyohn/Documents/git/sna-config/stage'
